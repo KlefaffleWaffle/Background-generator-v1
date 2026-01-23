@@ -1,3 +1,3 @@
 # Background-generator-v1
 
-[Watch the demo video](videos/demo.mp4)
+[Watch the demo video](demo.mp4)
