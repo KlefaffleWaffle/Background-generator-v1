@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/cfe781f4-47ba-463c-8508-c577ac6e986c
 # Sample Use Case
 Here is a clip from an unpublished video I was making about the film, "Good Luck, Have Fun, Don't Die."  
 
-https://github.com/user-attachments/assets/f61cb57b-a153-41f3-9995-1e6dad69201c
+https://github.com/user-attachments/assets/f1a8c267-2d73-409b-80f8-01bb4ce1fc6e
 
 # Note
 Due to github's limits on file sizes, I used a web tool called Clideo to compress the files, hence the watermark.
